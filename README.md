@@ -1,5 +1,5 @@
 # eZ430-Chronos
-This software enables acceleration data adquisition from eZ430-Chronos watch by Texas Instruments. It intends to capture human hand-movement, in order to create a new flight control system for drones (**CUBA** - Control for UAS Based in Accelerometers https://github.com/mncmilan/CUBA). If you want further information about the project, you can also check: http://steelhummingbird.blogspot.com.es/ 
+This software enables acceleration data adquisition from eZ430-Chronos watch by Texas Instruments. It intends to capture human hand-movement, in order to create a new flight control system for drones (**CUBA** - Control for UAS Based on Accelerometers https://github.com/mncmilan/CUBA). If you want further information about the project, you can also check: http://steelhummingbird.blogspot.com.es/ 
 
 ## Requirements
 The code was tested with the following setup:
