@@ -32,9 +32,9 @@ The public repository is located here:
 git://github.com/mncmilan/eZ430-Chronos.git
 
 ## License
-This software is published under the terms of the Creative Commons license.
+This software is published under the terms of the Apache License 2.0.
 
-https://creativecommons.org/
+http://www.apache.org/licenses/LICENSE-2.0.html
 
 ## Author
 Mónica Milán (@mncmilan)
