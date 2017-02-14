@@ -41,7 +41,7 @@ class FreeMovement():
             y_axis_acceleration.append(inbyte[bytes_to_read-2])
             filtering.filter_acceleration(y_axis_acceleration, watch_samples_counter)
 
-            graphic.plot_data(x_axis_acceleration, y_axis_acceleration)
+            graphic.plot_data(x_axis_acceleration[watch_samples_counter], y_axis_acceleration[watch_samples_counter])
 
         plt.pause(0.01)  # 10ms
 
